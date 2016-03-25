@@ -35,7 +35,7 @@ if (typeof $().popover == 'function') # test if bootstrap is loaded
       
     if $.rails.fire(element, 'confirm')
       if $(element).data('bs.popover') == undefined
-        options = $.extend {}, RailsBsPopcon.DEFAULTS
+        options = $.extend {}, RailsBsPopcon.DEFAULTS, $(element).data()
         $content = $('<div>', html: options.content)
         $content.prepend $('<p>', html: message) unless typeof(message) == 'boolean'
         $content.find '[data-apply=confirmation]'

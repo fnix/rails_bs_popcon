@@ -48,6 +48,9 @@ The example below was generated with these modifications:
 
 ![popcon example](https://dl.dropboxusercontent.com/u/1282318/github/rails_bs_popcorn.png "RailsBsPopcon example.")
 
+You can also replace these options, or the [popover ones](http://getbootstrap.com/javascript/#popovers-options), through data
+attributes, like `data-title: 'What?'`, `data-btn-ok-class: 'btn btn-primary btn-sm'` and so on.
+
 If you don't want any message inside the popover content just set data-confirm to true.
 
 MIT-LICENSE &copy; Kadu Diógenes.
