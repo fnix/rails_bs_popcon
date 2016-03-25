@@ -4,7 +4,7 @@ Use a bootstrap popover for your links with data-confirm:
 
 You must include the following JavaScript file:
 
-`#= require rails_bs_popcon/popcon`
+`#= require rails_bs_popcon`
 
 The default options are:
 
