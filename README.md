@@ -1,4 +1,5 @@
 # RailsBsPopcon
+[![Code Climate](https://codeclimate.com/github/fnix/rails_bs_popcon/badges/gpa.svg)](https://codeclimate.com/github/fnix/rails_bs_popcon)
 
 Use a bootstrap popover for your links with data-confirm:
 
