@@ -47,7 +47,9 @@ $.extend RailsBsPopcon.DEFAULTS,
 
 The example below was generated with these modifications:
 
-![popcon example](https://www.dropbox.com/s/18639zzuzjvakgs/rails_bs_popcorn.png?dl=0 "RailsBsPopcon example.")
+
+
+![popcon example](https://www.dropbox.com/s/18639zzuzjvakgs/rails_bs_popcorn.png?dl=1 "RailsBsPopcon example.")
 
 You can also replace these options, or the [popover ones](http://getbootstrap.com/javascript/#popovers-options), through data
 attributes, like `data-title: 'What?'`, `data-btn-ok-class: 'btn btn-primary btn-sm'` and so on.
